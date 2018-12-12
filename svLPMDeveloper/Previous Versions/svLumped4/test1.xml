@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<circuit>
+	<Component DialogIndex="0" metricPrefix="1" name="hello" rotated="False" type="Resistor" value="0.0">
+		<Node>(-181.0, 26.0)</Node>
+		<Node>(-5.0, 26.0)</Node>
+	</Component>
+	<Component DialogIndex="0" metricPrefix="1" name="cya" rotated="False" type="Capacitor" value="0.0">
+		<Node>(87.0, 22.0)</Node>
+		<Node>(263.0, 22.0)</Node>
+	</Component>
+	<Component DialogIndex="0" metricPrefix="" name="" rotated="False" type="Ground" value="0.0">
+		<Node>(440.0, 273.0)</Node>
+		<Node></Node>
+	</Component>
+	<Component DialogIndex="0" metricPrefix="1" name="b ye bye" rotated="True" type="Diode" value="0.0">
+		<Node>(432.0, 38.0)</Node>
+		<Node>(432.0, 214.0)</Node>
+	</Component>
+	<wire>
+		<wirePos>-5.0, 26.0, 87.0, 22.0</wirePos>
+	</wire>
+	<wire>
+		<wirePos>263.0, 22.0, 432.0, 38.0</wirePos>
+	</wire>
+	<wire>
+		<wirePos>432.0, 214.0, 440.0, 273.0</wirePos>
+	</wire>
+</circuit>

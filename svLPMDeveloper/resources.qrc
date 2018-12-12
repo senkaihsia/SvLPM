@@ -1,0 +1,32 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>BoundaryFace.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>capacitor.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>DCVoltageSource.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>Diode.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>Engineering.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>Ground.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>Inductor.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>Resistor.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>SimVascular.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>Stanford.png</file>
+  </qresource>
+</RCC>

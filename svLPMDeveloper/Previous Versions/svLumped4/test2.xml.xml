@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<circuit>
+	<Component DialogIndex="0" metricPrefix="" name="" rotated="False" type="Inductor" value="0.0">
+		<Node>(-246.0, 54.0)</Node>
+		<Node>(-70.0, 54.0)</Node>
+	</Component>
+	<Component DialogIndex="0" metricPrefix="" name="" rotated="False" type="Resistor" value="0.0">
+		<Node>(0.0, 49.0)</Node>
+		<Node>(176.0, 49.0)</Node>
+	</Component>
+	<Component DialogIndex="0" metricPrefix="" name="" rotated="False" type="Capacitor" value="0.0">
+		<Node>(248.0, 38.0)</Node>
+		<Node>(424.0, 38.0)</Node>
+	</Component>
+	<wire>
+		<wirePos>-70.0, 54.0, 0.0, 49.0</wirePos>
+	</wire>
+	<wire>
+		<wirePos>176.0, 49.0, 248.0, 38.0</wirePos>
+	</wire>
+</circuit>

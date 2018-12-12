@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="circuitcomponents">
+    <file>Resistor.png</file>
+  </qresource>
+</RCC>
